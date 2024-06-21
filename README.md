@@ -11,7 +11,7 @@ This project is an attempt to replicate the popular streaming service, Netflix. 
 
 ## Demo
 
-You can see a live demo of the app here: https://my-video-streaming-app.vercel.app/
+You can see a live demo of the app here: https://netflix-clone-tau-one.vercel.app/
 
 ## Technologies Used
 
